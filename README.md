@@ -6,8 +6,9 @@ DJ Sems Traktor Kontrol S5/S8 Screen Mods
 This repository is all about modding your S5/S8 Screens.
 All of my work is heavily based on 
 https://github.com/ErikMinekus/traktor-kontrol-screens   as well as
-https://www.native-instruments.com/forum/threads/s8-s5-display-mods.288222/  (Native Instruments Forum User "Sydes")
- - So credits to these two awesome guys!!!
+https://www.native-instruments.com/forum/threads/s8-s5-display-mods.288222/  (Native Instruments Forum User "Sydes").
+
+So credits to these two awesome guys!!!
 
 I looked at both of their great work and combined/rearranged their screens and functions so that
 it bests fits my DJing style and what I would like to see on the hardware screens.
