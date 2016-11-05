@@ -44,7 +44,6 @@ Simply download this repository, and then completely overwrite the "Screens" fol
 If you are into modding yourself, I added a customizable string property in the file DeckFooter.qml named "custom_branding_name", which looks like this:
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 
   readonly property string custom_branding_name: ""
   
@@ -60,8 +59,6 @@ Current Open "issues":
 That's about all.
 
 Happy Modding :)
-=======
->>>>>>> master
 =======
 >>>>>>> master
 =======
