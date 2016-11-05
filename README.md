@@ -50,6 +50,7 @@ You can change this to whatever you like, for example:
   readonly property string custom_branding_name: "DJ Sem"
  
 This string then appears in the lower left corner of the Deck View, mainly to be used for, well, impress ppl staring at your controller screens during a gig :)
+![Deck](https://github.com/semomat/traktor-kontrol-screen-mods/blob/screenshots/customBranding.jpg "Deck with custom branding")
 
 Current Open "issues":
 - Loop Number not completely properly aligned within the box
