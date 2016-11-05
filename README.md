@@ -42,6 +42,7 @@ http://djtechtools.com/2016/09/23/hack-kontrol-s8s5-screens-advanced-layouts/ (b
 Simply download this repository, and then completely overwrite the "Screens" folder of Traktor with the "Screens" Folder of this repository.
 
 If you are into modding yourself, I added a customizable string property in the file DeckFooter.qml named "custom_branding_name", which looks like this:
+<<<<<<< HEAD
 
   readonly property string custom_branding_name: ""
   
@@ -57,8 +58,21 @@ Current Open "issues":
 That's about all.
 
 Happy Modding :)
+=======
+>>>>>>> master
 
+  readonly property string custom_branding_name: ""
+  
+You can change this to whatever you like, for example:
 
+  readonly property string custom_branding_name: "DJ Sem"
+ 
+This string then appears in the lower left corner of the Deck View, mainly to be used for, well, impress ppl staring at your controller screens during a gig :)
+![Deck](https://github.com/semomat/traktor-kontrol-screen-mods/blob/screenshots/customBranding.jpg "Deck with custom branding")
 
+Current Open "issues":
+- Loop Number not completely properly aligned within the box
 
+That's about all.
 
+Happy Modding :)
